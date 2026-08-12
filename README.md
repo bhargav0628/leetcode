@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargav0628/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhargav0628/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/bhargav0628/leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Math
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhargav0628/leetcode/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhargav0628/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/bhargav0628/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/bhargav0628/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -68,8 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhargav0628/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/bhargav0628/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/bhargav0628/leetcode/tree/master/0392-is-subsequence) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
