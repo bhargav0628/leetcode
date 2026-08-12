@@ -13,17 +13,14 @@ public:
     bool validPalindrome(string s) {
         int left = 0;
         int right = s.size()-1;
-        bool x,y;
         while(left<right){
             if(s[left]!=s[right]){
                 left++;
-               x = palindrome(s,left,right);
-              if(!x){
+              if(!palindrome(s,left,right)){
                 left--;
                 right--;
-                 y = palindrome(s,left,right);
               }
-              if(!y){
+              if(!palindrome(s,left,right)){
                 return false;
               }
             }
