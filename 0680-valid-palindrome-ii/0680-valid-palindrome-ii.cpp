@@ -14,9 +14,6 @@ public:
         int left = 0;
         int right = s.size()-1;
         bool x,y;
-        if(palindrome(s,left,right)){
-            return true;
-        }
         while(left<right){
             if(s[left]!=s[right]){
                 left++;
