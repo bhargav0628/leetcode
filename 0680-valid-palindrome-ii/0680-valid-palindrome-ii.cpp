@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool palindrome(string s,int left,int right){
+    bool palindrome(string& s,int left,int right){
         while(left<right){
             if(s[left]!=s[right]){
                 return false;
@@ -15,14 +15,7 @@ public:
         int right = s.size()-1;
         while(left<right){
             if(s[left]!=s[right]){
-                left++;
-              if(!palindrome(s,left,right)){
-                left--;
-                right--;
-              }
-              if(!palindrome(s,left,right)){
-                return false;
-              }
+               return palindrome(s,left+1,right)||palindrome(s,left,right-1);
             }
             left++;
             right--;
