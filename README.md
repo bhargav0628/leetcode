@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhargav0628/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargav0628/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bhargav0628/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/bhargav0628/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhargav0628/leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/bhargav0628/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargav0628/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bhargav0628/leetcode/tree/master/0283-move-zeroes) |
@@ -80,9 +82,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/bhargav0628/leetcode/tree/master/0392-is-subsequence) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
