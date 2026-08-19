@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/bhargav0628/leetcode/tree/master/0986-interval-list-intersections) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Math
 |  |
 | ------- |
@@ -111,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/bhargav0628/leetcode/tree/master/0844-backspace-string-compare) |
+## Matrix
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
