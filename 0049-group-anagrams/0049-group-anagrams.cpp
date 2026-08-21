@@ -7,7 +7,6 @@ public:
         for(int i = 0;i<strs.size();i++){
             original.push_back(strs[i]);
             sort(strs[i].begin(),strs[i].end());
-            cout<<strs[i]<< " ";
             mp[strs[i]].push_back(original[i]);
             
         }
