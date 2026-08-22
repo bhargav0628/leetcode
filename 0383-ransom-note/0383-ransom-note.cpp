@@ -7,9 +7,7 @@ public:
         }
         for(int j = 0;j<ransomNote.size();j++){
             mp[ransomNote[j]]--;
-        }
-        for(auto x : mp){
-            if(x.second<0){
+            if(mp[ransomNote[j]]<0){
                 return false;
             }
         }
