@@ -6,17 +6,20 @@ public:
             if(operations[i]=="C"){
                 st.pop();
             } else if(operations[i]=="D"){
-                st.push(2*st.top());
+                int r = 2*st.top();
+                st.push(r);
             } else if(operations[i] == "+"){
                int x = st.top();
                st.pop();
                int y = st.top();
                st.pop();
+               int p = x+y;
                st.push(y);
                st.push(x);
-               st.push(x+y);
+               st.push(p);
             } else{
-                st.push(stoi(operations[i]));
+                int q = stoi(operations[i]);
+                st.push(q);
             }
         }
         int sum = 0;
