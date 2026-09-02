@@ -1,7 +1,6 @@
 class Solution {
 public:
     string removeStars(string s) {
-        vector<char> solution;
         stack<char> st;
         for(int i = 0;i<s.size();i++){
             if(s[i]=='*'){
@@ -10,16 +9,12 @@ public:
                 st.push(s[i]);
             }
         }
+        string sa;
         while(!st.empty()){
-            solution.push_back(st.top());
+            sa+=st.top();
             st.pop();
         }
-        string sa;
-        int x = solution.size()-1;
-        while(x>=0){
-           sa+= solution[x];
-           x--;
-        }
+        reverse(sa.begin(),sa.end());
         return sa;
     }
 };
