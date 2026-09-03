@@ -21,14 +21,12 @@ public:
                 st.push(asteroids[i]);
             }
         }
-        vector<int> solution(st.size());
-        int k = st.size()-1;
+        vector<int> solution;
         while(!st.empty()){
-            solution[k] = st.top();
-            cout<<st.top()<<" ";
+            solution.push_back(st.top());
             st.pop();
-            k--;
         }
+        reverse(solution.begin(),solution.end());
         return solution;
     }
 };
