@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/bhargav0628/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bhargav0628/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/bhargav0628/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bhargav0628/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhargav0628/leetcode/tree/master/0739-daily-temperatures) |
@@ -56,6 +57,7 @@
 | [0383-ransom-note](https://github.com/bhargav0628/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargav0628/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargav0628/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhargav0628/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
