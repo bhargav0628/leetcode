@@ -6,7 +6,6 @@ public:
         for(int i = 0;i<words.size();i++){
              mp[words[i]]++;
         }
-        int prev = 0;
         for(int j = 0;j<k;j++){
             int m = 0;
             string str;
