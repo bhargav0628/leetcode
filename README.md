@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/bhargav0628/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/bhargav0628/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/bhargav0628/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bhargav0628/leetcode/tree/master/0735-asteroid-collision) |
@@ -56,6 +57,7 @@
 | [0219-contains-duplicate-ii](https://github.com/bhargav0628/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhargav0628/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/bhargav0628/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bhargav0628/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bhargav0628/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -74,6 +76,7 @@
 | [0169-majority-element](https://github.com/bhargav0628/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/bhargav0628/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +103,7 @@
 | [0344-reverse-string](https://github.com/bhargav0628/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bhargav0628/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/bhargav0628/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/bhargav0628/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bhargav0628/leetcode/tree/master/0844-backspace-string-compare) |
@@ -128,6 +132,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargav0628/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhargav0628/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/bhargav0628/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
