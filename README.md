@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/bhargav0628/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/bhargav0628/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/bhargav0628/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/bhargav0628/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhargav0628/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhargav0628/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/bhargav0628/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
