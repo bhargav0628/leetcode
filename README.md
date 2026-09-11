@@ -45,6 +45,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargav0628/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3870-count-commas-in-range](https://github.com/bhargav0628/leetcode/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
 | ------- |
