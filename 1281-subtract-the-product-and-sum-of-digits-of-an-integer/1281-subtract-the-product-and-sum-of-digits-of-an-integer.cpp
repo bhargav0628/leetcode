@@ -9,7 +9,7 @@ public:
             prod*=temp;
             n/=10;
         }
-        cout<<sum<<" "<< prod<< " ";
+        
         return prod-sum;
     }
 };
