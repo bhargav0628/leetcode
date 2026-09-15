@@ -49,6 +49,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhargav0628/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
+| [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3870-count-commas-in-range](https://github.com/bhargav0628/leetcode/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
