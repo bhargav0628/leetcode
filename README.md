@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/bhargav0628/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bhargav0628/leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/bhargav0628/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhargav0628/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargav0628/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhargav0628/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/bhargav0628/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhargav0628/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhargav0628/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
