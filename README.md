@@ -78,6 +78,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bhargav0628/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bhargav0628/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/bhargav0628/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/bhargav0628/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/bhargav0628/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -146,6 +147,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/bhargav0628/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/bhargav0628/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/bhargav0628/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/bhargav0628/leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/bhargav0628/leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhargav0628/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
