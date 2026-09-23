@@ -42,6 +42,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bhargav0628/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/bhargav0628/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/bhargav0628/leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhargav0628/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -100,6 +101,7 @@
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
