@@ -35,6 +35,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/bhargav0628/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/bhargav0628/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
@@ -101,6 +102,7 @@
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
@@ -286,4 +288,12 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
