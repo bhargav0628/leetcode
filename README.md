@@ -32,6 +32,7 @@
 | [0739-daily-temperatures](https://github.com/bhargav0628/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargav0628/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/bhargav0628/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@
 | [0692-top-k-frequent-words](https://github.com/bhargav0628/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargav0628/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -134,6 +136,7 @@
 | [0680-valid-palindrome-ii](https://github.com/bhargav0628/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bhargav0628/leetcode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/bhargav0628/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/bhargav0628/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/bhargav0628/leetcode/tree/master/0986-interval-list-intersections) |
 ## String
