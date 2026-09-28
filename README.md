@@ -39,6 +39,7 @@
 | [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/bhargav0628/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/bhargav0628/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhargav0628/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargav0628/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
