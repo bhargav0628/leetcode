@@ -59,6 +59,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/bhargav0628/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bhargav0628/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/bhargav0628/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/bhargav0628/leetcode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/bhargav0628/leetcode/tree/master/3870-count-commas-in-range) |
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/bhargav0628/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
