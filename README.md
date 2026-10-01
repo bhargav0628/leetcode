@@ -44,6 +44,7 @@
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargav0628/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhargav0628/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhargav0628/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/bhargav0628/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/bhargav0628/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -202,6 +203,7 @@
 | [0739-daily-temperatures](https://github.com/bhargav0628/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhargav0628/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhargav0628/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/bhargav0628/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -209,6 +211,7 @@
 | [0042-trapping-rain-water](https://github.com/bhargav0628/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/bhargav0628/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/bhargav0628/leetcode/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhargav0628/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sweep Line
 |  |
 | ------- |
