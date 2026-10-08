@@ -51,6 +51,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/bhargav0628/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bhargav0628/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/bhargav0628/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhargav0628/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/bhargav0628/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -70,6 +71,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhargav0628/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/bhargav0628/leetcode/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/bhargav0628/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/bhargav0628/leetcode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/bhargav0628/leetcode/tree/master/3870-count-commas-in-range) |
@@ -100,6 +102,7 @@
 | [0771-jewels-and-stones](https://github.com/bhargav0628/leetcode/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/bhargav0628/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhargav0628/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -137,6 +140,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/bhargav0628/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bhargav0628/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/bhargav0628/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
