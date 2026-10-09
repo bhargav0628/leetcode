@@ -53,6 +53,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/bhargav0628/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/bhargav0628/leetcode/tree/master/1550-three-consecutive-odds) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhargav0628/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bhargav0628/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/bhargav0628/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -128,6 +129,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/bhargav0628/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/bhargav0628/leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bhargav0628/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhargav0628/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bhargav0628/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/bhargav0628/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
@@ -198,6 +200,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargav0628/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bhargav0628/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhargav0628/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bhargav0628/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Greedy
 |  |
 | ------- |
