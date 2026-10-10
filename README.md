@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhargav0628/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/bhargav0628/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/bhargav0628/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -340,5 +341,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/bhargav0628/leetcode/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/bhargav0628/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
