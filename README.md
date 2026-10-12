@@ -75,6 +75,7 @@
 | [1512-number-of-good-pairs](https://github.com/bhargav0628/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/bhargav0628/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/bhargav0628/leetcode/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/bhargav0628/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3870-count-commas-in-range](https://github.com/bhargav0628/leetcode/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
